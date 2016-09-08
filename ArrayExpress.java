@@ -36,5 +36,7 @@ public class ArrayExpress{
 		System.out.println("["+dec+"]");
 	}
 //Hola buenas
+// Ohayo gozaimasu
+//Lea este .....3333
 }
 	}
