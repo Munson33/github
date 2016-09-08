@@ -35,6 +35,6 @@ public class ArrayExpress{
 	for(double dec : v){
 		System.out.println("["+dec+"]");
 	}
-
+//Hola buenas
 }
 	}
